@@ -1,2 +1,1 @@
-# EmirProAga
-Serverım
+
